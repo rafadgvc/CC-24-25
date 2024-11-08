@@ -4,7 +4,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 
 | Nombre       | Enlace proyecto                                                                    | Versión      |
 | --------------- | ----------------------------------------------------------------------- | -------------- |
-| D. G-V. RAFAEL | [https://github.com/rafadgvc/CC-app.git](StratExam)                   | 0.0.2 |
+| D. G-V. RAFAEL | [StratExam](https://github.com/rafadgvc/CC-app.git)                  | 0.0.2 |
 | D. D. ISMAEL | <!--enlace-->                                                           | <!--versión--> |
 | G. L. FELIPE | <!--enlace-->                                                           | <!--versión--> |
 | G. W. IRENE | <!--enlace-->                                                           | <!--versión--> |
